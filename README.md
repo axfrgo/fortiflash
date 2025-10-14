@@ -1,4 +1,22 @@
-# FortiFlash
+# FortiFlash ⚡
+
+<div align="center">
+
+![FortiFlash Logo](https://img.shields.io/badge/FortiFlash-Video%20Processing-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-Modern-009688?style=for-the-badge&logo=fastapi)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**AI-Powered Video Watermark Remover & Enhancer**
+
+[Features](#features) • [Installation](#setup--installation) • [Usage](#how-to-run) • [API](#api-endpoints) • [Contributing](#development-notes)
+
+</div>
+
+---
+
+## 🌟 Overview
 
 **FortiFlash** is a powerful web application for video watermark removal and enhancement. Built with modern technologies, FortiFlash provides an intuitive interface for processing videos with professional results.
 
