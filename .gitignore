@@ -58,6 +58,7 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+backend/.env
 
 # Uploaded/output files
 backend/uploads/*
